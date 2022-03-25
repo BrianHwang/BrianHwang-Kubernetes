@@ -2,10 +2,13 @@
 https://kubernetes.io/training/
 https://learn.acloud.guru/learning-path/cloud-adjacent-containers
 
+Kubernetes Essentials
+https://learn.acloud.guru/course/2e0bad96-a602-4c91-9da2-e757d32abb8f/overview
+5H
 
 Certified Kubernetes Administrator (CKA)
 https://learn.acloud.guru/course/certified-kubernetes-administrator/overview
-
+25H
 
 Certified Kubernetes Application Developer (CKAD)
 https://learn.acloud.guru/course/certified-kubernetes-application-developer/overview
