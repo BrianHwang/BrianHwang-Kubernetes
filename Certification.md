@@ -1,3 +1,4 @@
+```
 https://kubernetes.io/training/
 https://learn.acloud.guru/learning-path/cloud-adjacent-containers
 
@@ -24,3 +25,4 @@ https://learn.acloud.guru/course/deploying-and-managing-applications-in-openshif
 
 OpenShift 4 Authentication and User Management
 https://learn.acloud.guru/course/openshift-4-authentication-and-user-management/overview
+```
