@@ -28,4 +28,5 @@ https://learn.acloud.guru/course/deploying-and-managing-applications-in-openshif
 
 OpenShift 4 Authentication and User Management
 https://learn.acloud.guru/course/openshift-4-authentication-and-user-management/overview
+2.5h
 ```
