@@ -41,3 +41,5 @@ volumn created on container runtime
 podman run -d --name mysql -v db_volumn2:/var/lib/mysql -e MQSQL_ROOT_PASSWORD=rpass -p 3306:3306 mysql
 
 
+podman volumn rm db_volume1 db_volume2 
+```
