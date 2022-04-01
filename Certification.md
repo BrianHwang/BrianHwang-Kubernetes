@@ -22,6 +22,18 @@ Monitoring Kubernetes With Prometheus
 https://learn.acloud.guru/course/97037e05-88ed-41a1-92ee-f5a8080318c2/overview
 
 
+# Red Hat Certified Specialist in Containers and Kubernetes Exam (EX180)
+https://learn.acloud.guru/course/red-hat-certified-specialist-in-containers-and-kubernetes-exam/dashboard
+- 14.8h
+- Redhat, podman. openshift
+- 
+- Understaning Containers
+- Managing Container Images
+- Constructing Custom Container images
+- 
+- introduction to OpenShift
+- Creating Application in OpenShift
+- Troubleshooting App in OpenShift
 
 Deploying and Managing Applications in OpenShift 4
 https://learn.acloud.guru/course/deploying-and-managing-applications-in-openshift-4/dashboard
