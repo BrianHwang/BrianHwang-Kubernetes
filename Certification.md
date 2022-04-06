@@ -23,6 +23,7 @@ https://learn.acloud.guru/course/97037e05-88ed-41a1-92ee-f5a8080318c2/overview
 4.1H
 
 # Red Hat Certified Specialist in Containers and Kubernetes Exam (EX180)
+https://www.redhat.com/en/services/training/ex180-red-hat-certified-specialist-containers-kubernetes-exam
 https://learn.acloud.guru/course/red-hat-certified-specialist-in-containers-and-kubernetes-exam/dashboard
 - 14.8h
 - Redhat, podman. openshift
@@ -42,4 +43,13 @@ https://learn.acloud.guru/course/deploying-and-managing-applications-in-openshif
 OpenShift 4 Authentication and User Management
 https://learn.acloud.guru/course/openshift-4-authentication-and-user-management/overview
 2.5h
+
+# Red Hat Certified Specialist in OpenShift Application Development exam (EX288)
+https://www.redhat.com/en/services/training/ex288-red-hat-certified-specialist-openshift-application-development-exam
+
+# Red Hat Certified Specialist in OpenShift Administration exam (EX280)
+https://www.redhat.com/en/services/training/ex280-red-hat-certified-specialist-in-openshift-administration-exam
+
+
+
 ```
