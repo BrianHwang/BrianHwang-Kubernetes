@@ -14,4 +14,25 @@ Job
 CronJob
 
 Init Container
+
+Volumn : external stroage for containers outside the container file system
+  volumn : defined in Pod spec
+  volumnMounts : defined in Container spec pointing to volumn name
+volumnType
+  hostPath
+    - Directory
+    - DirectoryOrCreate
+    - File
+    - FileOrCreate
+  emptyDir
+  persistentVolumnClaim
+```
+
+
+
+
+```
+note
+:set paste
+kubectl explain <resource name> — recursive | less 
 ```
