@@ -7,3 +7,11 @@ Application Observability and Maintenance (2:00)
 Application Environment, Configurations, and Security (2:30)
 Services and Networking (1:30)
 ```
+
+# Application Design and Build
+```
+Job
+CronJob
+
+Init Container
+```
