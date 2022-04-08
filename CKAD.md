@@ -85,7 +85,15 @@ Service Account and Authentication
 Admission Control
 Compute Resource Management
 Application Config
-Security
+  - configMap
+    an object that stores configuration data for application (key-value), passes to containers at runtime
+  - secret
+  - volume mounts vs environment variables
+    volume mounts => data appers in the container's file system, eac top-level key in the config data becomes a file name
+    environment variable => 
+SecurityContext
+  - part of pod and container spec, control advanced secuirty-related settings for container
+  - user id 
 ```
 
 
