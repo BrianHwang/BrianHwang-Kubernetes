@@ -7,6 +7,7 @@ https://yoshiki0705.medium.com/how-i-passed-cka-ckad-by-personal-interest-5d3f48
 Application Design and Build (2:30)
 Application Deployment (2:00)
 Application Observability and Maintenance (2:00)
+
 Application Environment, Configurations, and Security (2:30)
 Services and Networking (1:30)
 ```
@@ -61,8 +62,18 @@ probes adn health checks
       - readiness
       - startup
 montitoring
+  - install matrics server
+  - kubectl top pod|node
 Container logging
+  - container log -> kubectl logs <pod_name> -c <container_name>
 Debugging
+  - check object status
+  - check object config -> 
+      kubectl describe
+      kubectl get pod .. --all-namespace
+  - check logs
+    - container log : sudo cat /var/log/containers/kube...
+  
 ```
 
 
