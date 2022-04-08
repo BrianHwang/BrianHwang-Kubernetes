@@ -21,13 +21,14 @@ https://learn.acloud.guru/course/deploying-and-managing-applications-in-openshif
 5H
 
 ```
+```
 # Certified Kubernetes Administrator (CKA)
 https://learn.acloud.guru/course/certified-kubernetes-administrator/overview
 25H
 ```
 
 
-```
+
 ```
 # Advanced Networking with Kubernetes on AWS
 https://learn.acloud.guru/course/advanced-networking-with-kubernetes-for-aws/overview
