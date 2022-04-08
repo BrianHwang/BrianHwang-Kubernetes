@@ -9,6 +9,7 @@ Application Deployment (2:00)
 Application Observability and Maintenance (2:00)
 
 Application Environment, Configurations, and Security (2:30)
+
 Services and Networking (1:30)
 ```
 
@@ -75,7 +76,17 @@ Debugging
     - container log : sudo cat /var/log/containers/kube...
   
 ```
-
+# Application Environment, Configurations, and Security
+```
+CRD : Custom Resources : extension of kubernates API
+  - CustomResourceDefinition
+Service Account and Authentication
+  - 
+Admission Control
+Compute Resource Management
+Application Config
+Security
+```
 
 
 ```
