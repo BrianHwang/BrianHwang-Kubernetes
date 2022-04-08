@@ -42,8 +42,28 @@ Deployment Strategies
   - blue/green : whole switch
   - canary : portion of user switch
 Helm
+  - package management tool
+  - helm repository = collection of helm charts 
 ```
 
+# Application Observability and Maintenance
+```
+API deprecation Policy
+- k8s API
+  - apiVersion
+  - depreciateion window : 12months or 3 releases
+  - migration guide
+probes adn health checks
+  - probe
+    - part of container spec, detects the status of a container
+    - types
+      - liveness
+      - readiness
+      - startup
+montitoring
+Container logging
+Debugging
+```
 
 
 
