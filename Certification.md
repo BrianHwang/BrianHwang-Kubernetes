@@ -11,6 +11,7 @@ https://learn.acloud.guru/course/certified-kubernetes-administrator/overview
 25H
 
 # Certified Kubernetes Application Developer (CKAD)
+https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/ $375
 https://learn.acloud.guru/course/certified-kubernetes-application-developer/overview
 17H
 
