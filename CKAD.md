@@ -30,6 +30,19 @@ volumnType
   emptyDir
   persistentVolumnClaim
 ```
+# Application Deployment 08-Apr-22
+```
+Deployments
+  - deployments : desired status for set of replica pods
+Rolling Updates
+  - kubectl set image deployment/nginx-deployment nginx=nginx:1.161 
+  - kubectl rollout status deployment/nginx-deployment
+  - kubectl rollout undo deployment/nginx-deployment
+Deployment Strategies
+  - blue/green : whole switch
+  - canary : portion of user switch
+Helm
+```
 
 
 
