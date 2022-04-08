@@ -1,3 +1,6 @@
+https://yoshiki0705.medium.com/how-i-passed-cka-ckad-by-personal-interest-5d3f48411319
+
+
 # Certified Kubernetes Application Developer (CKAD)
 
 ```
@@ -8,7 +11,7 @@ Application Environment, Configurations, and Security (2:30)
 Services and Networking (1:30)
 ```
 
-# Application Design and Build
+# Application Design and Build 08-Apr-22
 ```
 Job
 CronJob
