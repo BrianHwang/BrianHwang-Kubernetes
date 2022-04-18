@@ -65,4 +65,5 @@ https://learn.acloud.guru/course/openshift-4-authentication-and-user-management/
 # Red Hat Certified Specialist in OpenShift Administration exam (EX280)
 https://www.redhat.com/en/services/training/ex280-red-hat-certified-specialist-in-openshift-administration-exam
 https://learn.acloud.guru/course/96b4901a-aa45-487e-98bd-1217be52205e/dashboard
+7H
 ```
