@@ -11,9 +11,21 @@ https://kubernetes.io/docs/
 https://kubernetes.io/blog/
 https://github.com/kubernetes/
 ```
-
+#Architecture
+``
+API Server
+etcd
+scheduler
+controller
+container runtime :docker
+kubelet : agent 
 
 ```
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/24234662/166631826-ab1bada8-5caa-47e6-b90a-3da95d9ff74e.png">
+from https://kodekloud.com/topic/recap-architecture/
+
+
+
 Application Design and Build (2:30)
 Application Deployment (2:00)
 Application Observability and Maintenance (2:00)
