@@ -21,9 +21,9 @@ container runtime :docker
 kubelet : agent 
 
 ```
-from https://kodekloud.com/topic/recap-architecture/
-<img width="290" alt="image" src="https://user-images.githubusercontent.com/24234662/166631826-ab1bada8-5caa-47e6-b90a-3da95d9ff74e.png">
 
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/24234662/166631826-ab1bada8-5caa-47e6-b90a-3da95d9ff74e.png">
+copy from :  https://kodekloud.com/topic/recap-architecture/
 
 
 ```
