@@ -3,6 +3,9 @@ https://yoshiki0705.medium.com/how-i-passed-cka-ckad-by-personal-interest-5d3f48
 
 # Certified Kubernetes Application Developer (CKAD)
 ```
+https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook
+https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad
+
 https://helm.sh/docs/ 
 https://kubernetes.io/docs/ 
 https://kubernetes.io/blog/
