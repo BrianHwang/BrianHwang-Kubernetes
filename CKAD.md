@@ -11,8 +11,8 @@ https://kubernetes.io/docs/
 https://kubernetes.io/blog/
 https://github.com/kubernetes/
 ```
-#Architecture
-``
+# Architecture
+```
 API Server
 etcd
 scheduler
